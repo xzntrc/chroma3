@@ -1,4 +1,4 @@
-module github.com/alecthomas/chroma/v2
+module ithub.com/xzntrc/chroma/v2
 
 go 1.19
 
